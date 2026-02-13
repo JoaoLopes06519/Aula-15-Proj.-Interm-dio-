@@ -52,4 +52,3 @@ def escolha_menu():
         escolha = int(input("Quais destas opções preferes, 1- DACIA SANDERO, 2- PEUGEOT 3008, 3- STOCK, 4- SAIR"))
 
 escolha_menu()
-
